@@ -3,4 +3,5 @@
 
     <string name="list_wisata">Daftar Tempat Wisata</string>
     <string name="gallery_wisata">Gallery Tempat Wisata</string>
+    <string name="list_database">Local Database</string>
 </resources>

@@ -28,7 +28,8 @@ android {
                     'src/main/res',
                     'src/main/res-menu',
                     'src/main/res-menu/list',
-                    'src/main/res-menu/gallery'
+                    'src/main/res-menu/gallery',
+                    'src/main/res-menu/localdb'
             ]
         }
     }

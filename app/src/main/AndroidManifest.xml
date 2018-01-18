@@ -29,6 +29,9 @@
         <activity android:name=".menu.gallery.views.MainGalleryActivity"
             android:parentActivityName=".main.views.MainActivity"/>
 
+        <activity android:name=".menu.localdb.views.MainLocalDbActivity"
+            android:parentActivityName=".main.views.MainActivity"/>
+
     </application>
 
 </manifest>

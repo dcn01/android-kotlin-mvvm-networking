@@ -49,6 +49,16 @@
                     android:theme="@style/buttonPrimaryTheme"
                     android:onClick="@{main::clickGalleryWisata}"/>
 
+                <android.support.v7.widget.AppCompatButton
+                    android:id="@+id/buttonThree"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/main_padding"
+                    android:text="@string/list_database"
+                    android:textColor="@drawable/button_text_selector"
+                    android:theme="@style/buttonPrimaryTheme"
+                    android:onClick="@{main::clickLocalDatabase}"/>
+
             </LinearLayout>
 
         </android.support.v4.widget.NestedScrollView>
